@@ -1,2 +1,4 @@
 hello from this side
 Hello from Github
+trying to make changes to see what actually works.
+i know i am learning on my own
